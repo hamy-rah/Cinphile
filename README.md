@@ -20,8 +20,8 @@ A simple and interactive Telegram bot that recommends movies or series based on 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/movie-recommendation-bot.git
-   cd movie-recommendation-bot
+   git clone https://github.com/hamy-rah/Cinphile.git
+   cd Cinphile
    ```
 
 2. **Create a virtual environment**:
